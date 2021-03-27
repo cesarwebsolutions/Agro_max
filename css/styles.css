@@ -1,0 +1,126 @@
+/* GERAIS */
+.row {
+    margin: 0;
+}
+
+.container {
+    padding: 70px;
+}
+
+p, li {
+    color: #444;
+    font-size: 14px;
+}
+
+
+.main-title {
+    color: #444;
+    margin: 0 0 65px 0;
+    font-size: 40px;
+    text-align: center;
+}
+
+/* BARRA DE NAVEGAÇÃO */
+header, .navbar {
+    background-color: black;
+}
+
+#nav-container {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+
+#logo {
+    width: 75px;
+}
+
+.navbar-brand {
+    padding: 0;
+    color: #FFF;
+}
+
+.navbar-brand:hover {
+    color: #FFF;
+}
+
+#navbar-links a {
+    color: #FFF;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding: 1rem .8rem;
+}
+
+/* SLIDER */
+.container-fluid {
+    padding: 0 !important;
+}
+
+#mainSlider .carousel-inner, #mainSlider .carousel-item {
+    height: auto;
+}
+
+
+#mainSlider .carousel-capition {
+    top: 30%;
+}
+
+
+
+/* AREA DE CONTATO */
+#call-area {
+    background-color: #CCC;
+}
+
+#call-area .row {
+    display: block;
+    text-align: center;
+}
+
+#call-area h3, #call-area p {
+    font-weight: bold;
+    font-size: 40px;
+    width: auto;
+    letter-spacing: 2px;
+    margin-bottom: 0;
+    display: inline;
+    height: 60px;
+    line-height: 60px;
+}
+
+#call-area #call-btn, .fa-whatsapp {
+    color: #25D366;
+    font-weight: bold;
+    font-size: 50px;
+    width: auto;
+    letter-spacing: 2px;
+}
+
+/* FOOTER */
+#contact-area {
+    text-align: center;
+}
+
+.contact-box {
+    padding-bottom: 50px;
+    margin-bottom: 10px;
+}
+
+.contact-box i {
+    color: #444;
+    font-size: 30px;
+    width: 55px;
+    height: auto;
+    line-height: 55px;
+    margin-bottom: 20px;
+}
+
+.contact-box p {
+    font-size: 16px;
+}
+
+.contact-title {
+    font-weight: bold;
+    color: #cc9a06;
+}
